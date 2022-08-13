@@ -8,7 +8,7 @@ import javax.sql.DataSource;
 import java.sql.SQLException;
 
 @SpringBootTest
-class SpringbootVueApplicationTests {
+class JpaApplicationTests {
     @Autowired
     private DataSource dataSource;
 
